@@ -29,7 +29,7 @@ def afficheNombreRacine(nbRacine):
     elif (nbRacine == 1):
         print("1 solution")
     else: 
-        print("pas de solution dans |R car delta < 0")
+        print("pas de solution dans R car delta < 0")
 
 afficheNombreRacine(nbRacine)
 
