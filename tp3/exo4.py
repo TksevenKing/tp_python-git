@@ -9,4 +9,4 @@ h2,m2,s2 = saisir_heure()
 horaire1 = conversion_temps(h1,m1,s1)
 horaire2 = conversion_temps(h2,m2,s2)
 
-print(f"le temps ecoulé entre les deux horaires est: {horaire1 - horaire2}")
+print(f"Le temps ecoulé entre les deux horaires est: {horaire1 - horaire2}")
