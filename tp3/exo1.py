@@ -5,6 +5,6 @@ def somme(m , n):
     while(temp < n):
         temp = temp +1
         m = m + temp
-    print(f"somme= {m}")
+    print(f"somme = {m}")
 
 somme(5,8)
